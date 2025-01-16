@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Christian Laury  # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: An ordinary guy trying to survive # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://shunaria.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: shunaria # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -34,15 +34,15 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: lin pirs
+  email: christianlaury79@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
     - https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/christian-laury-98443333b
 
 # Site Verification Settings
 webmaster_verifications:
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://media.licdn.com/dms/image/v2/D5603AQHYjBDSWcjC4w/profile-displayphoto-shrink_400_400/B56ZOWxKM9HYAg-/0/1733401290256?e=1741824000&v=beta&t=zlEY7fRmnRo-xuc3Z0RfvVPH_d_gINzWobuJ1INXrVY
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
