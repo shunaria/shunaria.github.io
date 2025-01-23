@@ -3,6 +3,8 @@ title : a log in and sign in code
 date : 2025-1-10 00:00:00 +0800
 categories : [a code of mine]
 tags : [just a simple code]
+image :
+    path : assets/images/teacher1.jpg
 ---
 another code that i try to make to be use for log in and sign in
 as the title suggest its just a simple code so that can be use for log in and sign in 
